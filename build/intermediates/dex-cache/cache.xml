@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60362459e007611489777541e9f4bf2e7e3a059b">
+        <dex dex="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d967fca4da3619a5c97b973d9bd4b567d5febeeb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.0_bdc23ad2e7483c0511194bd7d16d0c20b97675f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_20a4438acd22fd0430d70c61339622fefacf7ec0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7a0b4c8692e297a1af668bd7b2c488d8b14475a2">
+        <dex dex="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f917a8a53e4e3b3d5f6f211e068b306d41fac213/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bkandas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_92408ae6ec1553cfc427e68baf24e49b07fa4931/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_ba4ca71e991dc73eec03ee647af97d2408ef825a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/bkandas/Documents/workspace/androidworkspace/HelloSdlAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_8485719e4e350558091714eff3cbe8ef10cd8807/classes.dex" />
+    </item>
+
+</items>

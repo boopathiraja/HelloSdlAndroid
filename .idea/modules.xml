@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloSdlAndroid.iml" filepath="$PROJECT_DIR$/HelloSdlAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartDeviceLinkLibrary-4.0.0-Android/SmartDeviceLinkLibrary-4.0.0-Android.iml" filepath="$PROJECT_DIR$/SmartDeviceLinkLibrary-4.0.0-Android/SmartDeviceLinkLibrary-4.0.0-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
